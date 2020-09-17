@@ -1,2 +1,2 @@
-# mohitkumar14.github.io
-Personal info website.
+# Personal info website.
+https://mohitkumar14.github.io
